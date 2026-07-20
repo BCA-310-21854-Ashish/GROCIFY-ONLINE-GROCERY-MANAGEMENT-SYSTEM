@@ -1,0 +1,41 @@
+[2026-06-06 14:59:27] SMS Attempt - Order: 30 | Phone: +917903959309 | Customer: ashishX | Length: 209
+[2026-06-06 14:59:27] === TWILIO API CALL ===
+[2026-06-06 14:59:27] Account: AC7ded1ccb9966d09fa0d65e5b21a43510
+[2026-06-06 14:59:27] From: +13612139909
+[2026-06-06 14:59:27] To: +917903959309
+[2026-06-06 14:59:27] Message Length: 209 chars
+[2026-06-06 14:59:28] [SMS] OrderID: 30 | To: +917903959309 | HTTP: 201 | Time: 2026-06-06 14:59:28
+[2026-06-06 14:59:28] ✓ SMS Sent Successfully to +917903959309
+[2026-06-06 15:01:23] SMS Attempt - Order: 31 | Phone: +917903184676 | Customer: ashishX | Length: 209
+[2026-06-06 15:01:23] === TWILIO API CALL ===
+[2026-06-06 15:01:23] Account: AC7ded1ccb9966d09fa0d65e5b21a43510
+[2026-06-06 15:01:23] From: +13612139909
+[2026-06-06 15:01:23] To: +917903184676
+[2026-06-06 15:01:23] Message Length: 209 chars
+[2026-06-06 15:01:25] [SMS] OrderID: 31 | To: +917903184676 | HTTP: 400 | Time: 2026-06-06 15:01:25
+[2026-06-06 15:01:25] ✗ SMS Error (HTTP 400 | Code 21608): The number +91790318XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +91790318XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers
+[2026-06-06 15:01:25] Full Response: {"code":21608,"message":"The number +91790318XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +91790318XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers","more_info":"https://www.twilio.com/docs/errors/21608","status":400}
+[2026-06-06 16:32:26] SMS Attempt - Order: 32 | Phone: +917903959309 | Customer: ashishsharma | Length: 201
+[2026-06-06 16:32:26] === TWILIO API CALL ===
+[2026-06-06 16:32:26] Account: AC7ded1ccb9966d09fa0d65e5b21a43510
+[2026-06-06 16:32:26] From: +13612139909
+[2026-06-06 16:32:26] To: +917903959309
+[2026-06-06 16:32:26] Message Length: 201 chars
+[2026-06-06 16:32:27] [SMS] OrderID: 32 | To: +917903959309 | HTTP: 201 | Time: 2026-06-06 16:32:27
+[2026-06-06 16:32:27] ✓ SMS Sent Successfully to +917903959309
+[2026-06-07 18:08:07] SMS Attempt - Order: 34 | Phone: +917903959309 | Customer: ashishX | Length: 209
+[2026-06-07 18:08:07] === TWILIO API CALL ===
+[2026-06-07 18:08:07] Account: AC7ded1ccb9966d09fa0d65e5b21a43510
+[2026-06-07 18:08:07] From: +13612139909
+[2026-06-07 18:08:07] To: +917903959309
+[2026-06-07 18:08:07] Message Length: 209 chars
+[2026-06-07 18:08:09] [SMS] OrderID: 34 | To: +917903959309 | HTTP: 201 | Time: 2026-06-07 18:08:09
+[2026-06-07 18:08:09] ✓ SMS Sent Successfully to +917903959309
+[2026-06-07 19:46:57] SMS Attempt - Order: 35 | Phone: +917903959309 | Customer: ashishX | Length: 209
+[2026-06-07 19:46:57] === TWILIO API CALL ===
+[2026-06-07 19:46:57] Account: AC7ded1ccb9966d09fa0d65e5b21a43510
+[2026-06-07 19:46:57] From: +13612139909
+[2026-06-07 19:46:57] To: +917903959309
+[2026-06-07 19:46:57] Message Length: 209 chars
+[2026-06-07 19:47:01] [SMS] OrderID: 35 | To: +917903959309 | HTTP: 201 | Time: 2026-06-07 19:47:01
+[2026-06-07 19:47:01] ✓ SMS Sent Successfully to +917903959309
