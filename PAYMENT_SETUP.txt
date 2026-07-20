@@ -1,0 +1,20 @@
+PAYMENT GATEWAY - DUMMY MODE
+
+Features Available:
+- UPI / PhonePe / Google Pay / Paytm
+- Debit Card / Credit Card
+- Net Banking
+
+Payment Mode:
+- Currently using DUMMY payment mode
+- Payments are simulated (2-second delay) and always succeed
+- A dummy payment ID is auto-generated (e.g. DUMMY_PAY_1234567890_ABCDEFGHI)
+
+Demo URL:
+payment/checkout.php?total=499
+
+To integrate a real payment gateway:
+1. Sign up with a provider (e.g. Razorpay, PayU, Cashfree)
+2. Get your API key
+3. Replace the dummy JS in checkout.php and payment/checkout.php
+   with the provider's SDK and key
