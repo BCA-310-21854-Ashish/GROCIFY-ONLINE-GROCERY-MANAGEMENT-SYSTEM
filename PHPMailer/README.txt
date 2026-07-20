@@ -1,0 +1,1 @@
+Download PHPMailer from https://github.com/PHPMailer/PHPMailer and copy src folder here.
